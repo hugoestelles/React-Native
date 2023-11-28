@@ -18,9 +18,13 @@ Rama : Calc
 Estos dos juegos son un proyecto en parejas realizando utilizando la metodología SCRUM, es decir, se trata de un producto mínimo viable.
 
 En la primera pantalla tenemos un crucigrama, donde al pulsar el titulo nos aparecen las definiciones de las palabras.
+
 ![Crucigrama](fotos/cruci.png)
+
 En la segunda pantalla tenemos un titulo, donde al pulsar, aparece una sopa de letras.
+
 ![sopa](fotos/sopa.png)
+
 Como es un trabajo en parejas el codigo está en otro repositorio.
 
 [Enlace al repositorio](https://github.com/hugoestelles/PMDM_AE2)

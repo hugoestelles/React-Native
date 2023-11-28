@@ -39,16 +39,16 @@ En la 'Pantalla 1' podemos introducir un texto y el numero de filas y la aplicac
 h l
 o a
 
-![Pantalla1](fotos/pantalla1.png)
+![Pantalla1](pantalla1.png)
 
 En la 'Pantalla 2' encontramos una navegacion tab, con dos pantallas mas cada una con sus apis y sus funcionalidades
 En la primera pantalla tab utilizo una api de rick y morty para cargar personajes e ir pasando de uno a otro de forma circular, es decir, si desde la posicion 1 pulsamos atrás nos mandará a la posicion 20. Los botones de siguientes y anteriores hacen lo mismo pero de 20 en 20.
 
-![RickYMorty](fotos/rick.png)
+![RickYMorty](rick.png)
 
 En la segunda pantalla tab utilizamos una api de jugadores de baloncesto para buscar jugadores por nombre, nos 20 jugadores por pantalla con posibilidad de ir pasando páginas hasta llegar al fin de la lista, donde si pulsamos siguiente nos mandará al principio de la lista.
 
-![Basket](fotos/basket.png)
+![Basket](basket.png)
 
 Rama : APIS
 

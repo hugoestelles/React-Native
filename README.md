@@ -1,4 +1,4 @@
-![Logo](fotos/logo.png)
+![Logo](fotos/react.png)
 
 # React Native
 

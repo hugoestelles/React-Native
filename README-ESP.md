@@ -19,7 +19,7 @@ Estos dos juegos son un proyecto en parejas realizando utilizando la metodologí
 
 En la primera pantalla tenemos un crucigrama, donde al pulsar el titulo nos aparecen las definiciones de las palabras.
 
-![Calculadora](fotos/cruci.png){width=10%}
+![Calculadora](fotos/cruci.png)
 
 En la segunda pantalla tenemos un titulo, donde al pulsar, aparece una sopa de letras.
 

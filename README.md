@@ -1,6 +1,6 @@
 ![Logo](fotos/react.png)
 
-# React Native
+
 
 Hola, bienvenid@ a mis proyectos de React Native, por favor, elige el idioma en el que te gustaría ver el proyecto:
 
